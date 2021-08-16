@@ -1,7 +1,7 @@
 {
   "name": "autoupdate",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is an example app for auto updating",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,7 +19,7 @@
     "electron-updater": "^4.3.9"
   },
   "repository": {
-    "type":"git",
-    "url":"https://github.com/code-rhino/electron-updated-app.git"
+    "type": "git",
+    "url": "https://github.com/code-rhino/electron-updated-app.git"
   }
 }
